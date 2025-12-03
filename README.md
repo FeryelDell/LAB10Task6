@@ -1,4 +1,4 @@
-# Bank Finder 🏦
+# Bank Finder 
 
 A simple Java program that identifies a bank based on the first three digits of an account number.
 
